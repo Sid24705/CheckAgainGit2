@@ -17,8 +17,7 @@ class ViewController: UIViewController {
         
         print("Siddahrth")
         print("Siddahrth")
-        print("Siddahrth")
-        print("Siddahrth")
+        
         print("Siddahrth")
 
     }
